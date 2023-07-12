@@ -1,0 +1,43 @@
+.home-container {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .home-container header {
+    text-align: center;
+    color: white;
+  }
+  
+  .home-container h1 {
+    font-size: 32px;
+    margin: 20px 0;
+  }
+  
+  .home-container section {
+    text-align: center;
+    color: white;
+    padding: 40px;
+  }
+  
+  .home-container h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .home-container p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .home-container .cta-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
